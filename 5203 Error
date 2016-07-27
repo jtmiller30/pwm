@@ -1,0 +1,4 @@
+This is the error I am getting when it was saving the configuration file. I dont know where to go to look at the error:
+
+Configuration format error: %1% { 5203 CONFIG_FORMAT_ERROR (value error in config file, please investigate: 
+LDAP Directory-Administrator Query String required value missing) }
